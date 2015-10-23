@@ -2,13 +2,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>kendzi.kendzi3d</groupId>
 	<artifactId>kendzi3d-resources</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<scm>
 		<connection>scm:git:git@github.com/kendzi/kendzi3d-resources.git</connection>
 		<developerConnection>scm:git:git@github.com:kendzi/kendzi3d-resources.git</developerConnection>
 		<url>http://github.com/kendzi/kendzi3d-resources</url>
-		<tag>HEAD</tag>
+		<tag>kendzi3d-resources-0.0.1</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
