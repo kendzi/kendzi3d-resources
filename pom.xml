@@ -60,7 +60,7 @@
 							<Plugin-Date />
 							<Plugin-Description>Resources data for kendzi3d plugin</Plugin-Description>
 							<Plugin-Icon>images/stock_3d-effects24.png</Plugin-Icon>
-							<Plugin-Link>http://wiki.openstreetmap.org/index.php/JOSM/Plugins/Kendzi3D</Plugin-Link>
+							<Plugin-Link>https://wiki.openstreetmap.org/index.php/JOSM/Plugins/Kendzi3D</Plugin-Link>
 							<Plugin-Mainversion>8906</Plugin-Mainversion>
 							<Plugin-Version>${project.version}</Plugin-Version>
 							<url>${project.url}</url>
